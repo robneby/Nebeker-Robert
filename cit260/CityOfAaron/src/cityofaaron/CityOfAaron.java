@@ -8,11 +8,11 @@ package cityofaaron;
 /**
  *
  * @author Robert
+ * TESTING - Robert Nebeker
  */
 public class CityOfAaron {
 
     /**
-     * TESTING - Robert Nebeker
      * @param args the command line arguments
      */
     public static void main(String[] args) {
